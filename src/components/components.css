@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    background: #c0c0c0;
+    justify-content: space-evenly;
+    font-size: 25pt;
+}
+.main-content{
+    display: flex;
+    background: #c0c0c0;
+    justify-content: space-evenly;
+}
+.footer {
+    display: flex;
+    background: #c0c0c0;
+}
+.sidebar{
+    background: #ccc;
+}
